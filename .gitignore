@@ -1,0 +1,4 @@
+// Add all the files and directories you want Git to ignore
+# Node.js dependencies
+node_modules/
+.env
